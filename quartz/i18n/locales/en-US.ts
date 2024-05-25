@@ -65,6 +65,7 @@ export default {
     error: {
       title: "not found",
       notFound: "either this page is private or doesn't exist.",
+      home: "return to homepage",
     },
     folderContent: {
       folder: "folder",
